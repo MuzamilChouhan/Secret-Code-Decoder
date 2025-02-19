@@ -35,7 +35,7 @@ Follow these steps to set up and run the project locally:
 
 ### 1️⃣ **Clone the Repository**  
 git clone https://github.com/muzamilchouhan/Secret-Code-Decoder
-cd cipher
+cd Secret-Code-Decoder
 
 2️⃣ Install Dependencies
 npm install
